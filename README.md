@@ -13,6 +13,8 @@ The goal of this repository is to stay consistent, learn by doing, and track my 
   - Variables and `len()`
   - Swapping variables
   - Mini project: Band Name Generator
+  Day 2 : python basics
+  -
 
 ## 🛠 Tools & Language
 - Python 3

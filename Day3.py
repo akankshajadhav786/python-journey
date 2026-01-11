@@ -86,7 +86,7 @@ direction=input("Do you want to go left or right?\n")
 if direction=="left":
     action=input("There is water ahead, do you want to swim or wait?\n")
     if action=="wait":
-        door=input("which door you wanna choose?\nred\n,blue\nyellow\ntell:")
+        door=input("which door you wanna choose?\nred\nblue\nyellow\ntell:")
         if door == "yellow":
             print("YOU WIN!")
         else:
